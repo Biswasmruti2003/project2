@@ -5,3 +5,6 @@ h1.addEventListener("click " ,()=>{
 })
 
 console.log("well come to my project2");
+console.log("well come to my project2");
+console.log("well come to my project2");
+console.log("well come to my project2");
