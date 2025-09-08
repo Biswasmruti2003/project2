@@ -1,0 +1,9 @@
+h1 {
+    background-color: yellow;
+    font-size: 30px;
+}
+button {
+    border: 2px solid;
+    background-color: green;
+    font-weight: 600;
+}
